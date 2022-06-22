@@ -39,6 +39,33 @@
 // git remote : origin 복제한 url을 참조하기 위해
 // git remote add origin https://github.com/nataya1116/220621.git 자신의 깃주소를 추가해준것
 
+// cd "들어갈 경로" : 경로 이동
+// cd .. : 한단계 위로 이동
+
 // git push -u origin main 깃 저장소에 첫 커밋을 푸쉬
 
 // vsc 확장프로그램 Git Graph 설치
+
+// 소스제어 탭을 선택tl git 그래프에 변경사항 중 파일 이름 옆에 표시
+// 로컬 저장소는 init 한 경로이다.
+
+// U : 저장소에 없는 새로운 파일
+// M : 저장소에 있던 파일이 수정됨
+// D : 저장소에 있는 파일이 제거됨
+// A : 인덱스 추가됨
+
+// 1. git 설정
+
+// 깃 로컬 저장소 사용자 설정
+// git config --global user.name "본인 닉네임"
+// git config --global user.email "본인 이메일"
+
+// 사용자 설정 정보 조회
+// git config --global --list
+
+// git 저장소 초기화 저장소 생성
+// 로컬 저장소로 사용할 경로로 이동해서 명령어 입력
+// git init
+
+// github에 있는 저장소 로컬로 복제
+// git clone (url)
