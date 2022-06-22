@@ -69,3 +69,6 @@
 
 // github에 있는 저장소 로컬로 복제
 // git clone (url)
+
+// git이 다른 프로세서에서 사용하고 있다고 말할때 해결 방법
+// rm -f ./.git/index.lock
