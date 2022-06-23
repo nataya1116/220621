@@ -104,3 +104,4 @@ box.innerHTML = nameStr3.replace(/개발자/,"$' 집에 가고 싶다.");
 // 2. 입력 버튼 누르면 화면(html이나 콘솔)에 출력
 // 3. 교체 버튼을 누르면 자리 바꾸기 이름 뒤에 하고 싶은 일을 대입
 // 4. 3번까지 완료되면 이름과 하고 싶은 일 사이에 시간도
+// eifjlsdjflkjsdlkfjklsdjflksd
